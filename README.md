@@ -11,14 +11,13 @@ Code for Multi-receptive fields and dynamic matching of damaged patterns for ima
 
 
 ## Run
-1. train the model
-```
-to be published.
-```
-2. test the model
-```
-to be published.
-```
+**1.   Training**
+
+To train our model, modify the model config file [train.py](train.py). You may need to change the path of dataset or the parameters of the networks etc. Then run python train.py \
+
+**2.   Testing**
+
+To output the generated results of the inputs, you can use the [test_and_save.py](test_and_save.py).  
 
 ## Download Datasets
 
